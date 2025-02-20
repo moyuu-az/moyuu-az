@@ -1,3 +1,5 @@
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moyuu-az&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api?username=moyuu-az&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<div align="center">
+  
+# Moyuu GitHub 🌙
+![](https://github-readme-stats.vercel.app/api?username=moyuu-az&show_icons=true&theme=graywhite&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moyuu-az&layout=compact&theme=graywhite&hide_border=true)
